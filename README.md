@@ -1,5 +1,4 @@
-# testrepo
+# IBM Data Science Certificate
 
-## editing the file
+## all lessons and projects from the IBM DS Certificate at Coursera
 
-It's a markdown file in this repository
